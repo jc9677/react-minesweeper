@@ -1,2 +1,1 @@
-# react-minesweeper
-A repository for a React-based Minesweeper game
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
